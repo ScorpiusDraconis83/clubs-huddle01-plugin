@@ -76,7 +76,7 @@
 		"rimraf": "5.0.10",
 		"rollup": "4.59.0",
 		"svelte": "^5.0.0",
-		"tailwindcss": "4.2.0",
+		"tailwindcss": "4.2.1",
 		"typescript": "5.9.3",
 		"vue": "3.5.28"
 	},
